@@ -1,1 +1,114 @@
+🧩 Tema do Projeto
+Sistema Web de Gestão de Instalações e Logística para Empresa de Ar-Condicionado
 
+📌 Escopo Geral do Sistema
+Um sistema web que permita à empresa:
+Cadastrar clientes e ordens de serviço
+
+
+Gerenciar técnicos e suas agendas
+
+
+Otimizar a logística de deslocamento para as instalações
+
+
+Controlar estoque de peças e equipamentos
+
+
+Emitir relatórios de desempenho e atendimento
+
+
+
+✅ Requisitos Funcionais (mínimo 10)
+RF01 – Cadastrar clientes
+
+
+RF02 – Criar e gerenciar ordens de serviço
+
+
+RF03 – Cadastrar e escalar técnicos para os serviços
+
+
+RF04 – Atribuir datas e horários às instalações
+
+
+RF05 – Gerenciar estoque de equipamentos e peças
+
+
+RF06 – Gerar relatórios de serviços realizados
+
+
+RF07 – Visualizar mapa com localização dos clientes
+
+
+RF08 – Notificar técnicos sobre serviços agendados
+
+
+RF09 – Reagendar serviços em caso de imprevistos
+
+
+RF10 – Registrar status da instalação (pendente, em andamento, concluído)
+
+
+
+❗ Requisitos Não Funcionais (mínimo 5)
+RNF01 – O sistema deve estar disponível 24/7
+
+
+RNF02 – O tempo de resposta das páginas deve ser inferior a 3 segundos
+
+
+RNF03 – O sistema deve ser responsivo e acessível via dispositivos móveis
+
+
+RNF04 – Os dados dos clientes devem ser armazenados com segurança (criptografia)
+
+
+RNF05 – O sistema deve permitir escalabilidade para até 100 técnicos simultâneos
+
+
+
+🧩 Entidades do Projeto (mínimo 5)
+Cliente
+
+
+Ordem de Serviço
+
+
+Técnico
+
+
+Agenda
+
+
+Estoque/Equipamento
+
+
+(Outras possíveis: Veículo, Localização, Relatório de Serviço)
+
+🖥 Projeto de Interface com o Usuário
+Sugestão de telas para wireframe:
+Tela de login
+
+
+Painel de controle (admin)
+
+
+Cadastro de cliente
+
+
+Gerenciamento de ordens de serviço
+
+
+Agenda do técnico
+
+
+Visualização de mapa/logística
+
+
+Tela de estoque
+
+
+
+📊 Projeto Conceitual de Dados
+Você deve elaborar um Diagrama Entidade-Relacionamento (DER) que inclua as 5 entidades acima e relacione-as com cardinalidade, atributos e chaves primárias/estrangeiras.
