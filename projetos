@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Como Montar uma Dieta</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background-color: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    h1 {
+      color: #2c3e50;
+      text-align: center;
+    }
+
+    section {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px auto;
+      max-width: 800px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Como Montar uma Dieta Balanceada 🥗</h1>
+
+  <section>
+    <h2>1. Defina seu objetivo</h2>
+    <p>Antes de começar, é essencial saber se seu objetivo é <strong>emagrecimento</strong>, <strong>ganho de massa muscular</strong> ou <strong>manutenção de peso</strong>.</p>
+  </section>
+
+  <section>
+    <h2>2. Calcule seu gasto calórico diário</h2>
+    <p>Use ferramentas online ou consulte um nutricionista para saber quantas calorias você gasta por dia (Taxa de Metabolismo Basal + atividades físicas).</p>
+  </section>
+
+  <section>
+    <h2>3. Distribua os macronutrientes</h2>
+    <ul>
+      <li><strong>Proteínas:</strong> carnes, ovos, leite, leguminosas</li>
+      <li><strong>Carboidratos:</strong> arroz, batata, aveia, frutas</li>
+      <li><strong>Gorduras saudáveis:</strong> azeite, abacate, castanhas</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>4. Planeje suas refeições</h2>
+    <p>Divida sua alimentação ao longo do dia (café da manhã, almoço, jantar e lanches), mantendo equilíbrio entre os nutrientes em cada refeição.</p>
+  </section>
+
+  <section>
+    <h2>5. Beba água!</h2>
+    <p>Manter-se hidratado é fundamental para o funcionamento do organismo e sucesso de qualquer dieta.</p>
+  </section>
+
+  <section>
+    <h2>6. Ajuste conforme os resultados</h2>
+    <p>Faça reavaliações periódicas. Se necessário, ajuste calorias e macros com base no seu progresso.</p>
+  </section>
+
+  <footer>
+    <p>💡 Esta página é informativa. Para melhores resultados, procure um nutricionista.</p>
+  </footer>
+
+</body>
+</html>
+
